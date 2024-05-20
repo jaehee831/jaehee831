@@ -5,8 +5,8 @@
   <a href="https://jaehee831.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Tech Blog-FCBFBD?style=flat&logo=GitHub&logoColor=181717" alt="GitHub Tech Blog"/>
   </a>
-  <a href="https://github.com/jaehee831" target="_blank">
-    <img src="https://img.shields.io/badge/Tech Blog-B2FCE4?style=flat&logo=Instagram&logoColor=E4405F" alt="Instagram Tech Blog"/>
+  <a href="https://www.instagram.com/jae_pee831/" target="_blank">
+    <img src="https://img.shields.io/badge/Tech Blog-B2FCE4?style=flat&logo=Instagram&logoColor=E4405F" alt="Instagram"/>
   </a>
 </div>
 
