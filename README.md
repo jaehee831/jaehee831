@@ -6,9 +6,10 @@
     <img src="https://img.shields.io/badge/Tech Blog-FCBFBD?style=flat&logo=GitHub&logoColor=181717" alt="GitHub Tech Blog"/>
   </a>
   <a href="https://www.instagram.com/jae_pee831/" target="_blank">
-    <img src="https://img.shields.io/badge/Tech Blog-B2FCE4?style=flat&logo=Instagram&logoColor=E4405F" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-B2FCE4?style=flat&logo=Instagram&logoColor=E4405F" alt="Instagram"/>
   </a>
 </div>
 
+<br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaehee831&show_icons=true&theme=radical)
