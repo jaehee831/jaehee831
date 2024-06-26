@@ -1,13 +1,61 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Hi,%20there&fontColor=bdbdbd" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=jaehee's%20github" />
 </div>
 
 <!--내용 부분-->
+<h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaehee831&show_icons=true&theme=radical" alt="jaehee831's GitHub stats" style="height: 200px; margin-right: 50px;"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaehee831&layout=compact" alt="Top Langs" style="height: 200px; margin-left: 50px;"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/TensorFlow-FFFDE7.svg?style=for-the-badge&logo=TensorFlow&logoColor=ff6f00" />&nbsp
+  <img src="https://img.shields.io/badge/Pytorch-BBB6B5.svg?style=for-the-badge&logo=PyTorch&logoColor=EE4C2C" />&nbsp
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/R-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/C/C++-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp  
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+</div>
+
+<br>
+
+<h3 align="center">📚 Studying 📚</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Docker-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/FastAPI-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/Flutter-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/Dart-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+</div>
+
+<br>
+
+<h3 align="center">🛠 Tools 🛠</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
 <br>
