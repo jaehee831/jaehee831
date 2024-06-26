@@ -50,7 +50,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Figma-FFFFFF.svg?style=for-the-badge&logo=figma&logoColor=F24E1E" />&nbsp
+  <img src="https://img.shields.io/badge/Figma-FFF0F0.svg?style=for-the-badge&logo=figma&logoColor=F24E1E" />&nbsp
   <img src="https://img.shields.io/badge/Slack-FFFDE7.svg?style=for-the-badge&logo=slack&logoColor=4A154B" />&nbsp
 </div>
 
