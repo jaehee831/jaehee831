@@ -6,6 +6,7 @@
 <!--내용 부분-->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jaehee831&show_icons=true&theme=radical" alt="jaehee831's GitHub stats" style="height: 200px; margin-right: 50px;"/>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaehee831&layout=compact" alt="Top Langs" style="height: 200px; margin-left: 50px;"/>
 </div>
 
