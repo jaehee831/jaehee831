@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="[https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51](https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=Hi,%20there&textBg=false&fontColor=bdbdbd)" />
+</div>
+
+
 <a href="https://jaehee831.notion.site/Hi-I-m-Jaehee-7869403b0bca403aabcfd7ae5e4cc1c3?pvs=4" target="_blank">
   <img src="https://img.shields.io/badge/CV-66DEB1?style=flat&logo=Notion&logoColor=000000" alt="Notion CV"/>
 </a>
