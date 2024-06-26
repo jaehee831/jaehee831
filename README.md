@@ -11,7 +11,8 @@
 
 <br>
 
-<h3 align="center">📫 Contact 📫</h3>
+<h2 align="center">📫 Contact 📫</h2>
+<br>
 <div align="center">
   <a href="https://jaehee831.notion.site/Hi-I-m-Jaehee-7869403b0bca403aabcfd7ae5e4cc1c3?pvs=4" target="_blank">
     <img src="https://img.shields.io/badge/CV-66DEB1?style=for-the-badge&logo=Notion&logoColor=000000" />&nbsp
