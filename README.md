@@ -6,7 +6,7 @@
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/TensorFlow-FFFDE7.svg?style=for-the-badge&logo=TensorFlow&logoColor=ff6f00" />&nbsp
   <img src="https://img.shields.io/badge/Pytorch-BBB6B5.svg?style=for-the-badge&logo=PyTorch&logoColor=EE4C2C" />&nbsp
 </div>
@@ -14,8 +14,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/C-C5FAFF.svg?style=for-the-badge&logo=c&logoColor=A8B9CC" />&nbsp
   <img src="https://img.shields.io/badge/C++-C5FAFF.svg?style=for-the-badge&logo=cplusplus&logoColor=00599C" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-EBC67E.svg?style=for-the-badge&logo=pandas&logoColor=150458" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-FFF9ED.svg?style=for-the-badge&logo=numpy&logoColor=013243" />&nbsp  
+  <img src="https://img.shields.io/badge/Pandas-EBC67E.svg?style=for-the-badge&logo=pandas&logoColor=150458" />&nbsp
+  <img src="https://img.shields.io/badge/Numpy-FFF9ED.svg?style=for-the-badge&logo=numpy&logoColor=013243" />&nbsp  
 </div>
 
 <br>
@@ -30,33 +30,28 @@
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Docker-F7DF1E.svg?style=for-the-badge&logo=docker&logoColor=B8DBE4" />&nbsp
+  <img src="https://img.shields.io/badge/Docker-EF3F56.svg?style=for-the-badge&logo=docker&logoColor=2496ED" />&nbsp
   <img src="https://img.shields.io/badge/FastAPI-696969.svg?style=for-the-badge&logo=fastapi&logoColor=009688" />&nbsp
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/Flutter-FAFABD.svg?style=for-the-badge&logo=flutter&logoColor=02569B" />&nbsp
-  <img src="https://img.shields.io/badge/Dart-#9BD547.svg?style=for-the-badge&logo=dart&logoColor=0175C2" />&nbsp
+  <img src="https://img.shields.io/badge/Dart-9BD547.svg?style=for-the-badge&logo=dart&logoColor=0175C2" />&nbsp
 </div>
 
 <br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Figma-FFFFFF.svg?style=for-the-badge&logo=figma&logoColor=F24E1E" />&nbsp
+  <img src="https://img.shields.io/badge/Slack-FFFDE7.svg?style=for-the-badge&logo=slack&logoColor=4A154B" />&nbsp
 </div>
 
 <br>
