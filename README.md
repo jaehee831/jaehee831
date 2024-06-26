@@ -30,14 +30,14 @@
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Docker-F7DF1E.svg?style=for-the-badge&logo=docker&logoColor=#2496ED" />&nbsp
-  <img src="https://img.shields.io/badge/FastAPI-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/Docker-F7DF1E.svg?style=for-the-badge&logo=docker&logoColor=B8DBE4" />&nbsp
+  <img src="https://img.shields.io/badge/FastAPI-696969.svg?style=for-the-badge&logo=fastapi&logoColor=009688" />&nbsp
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/Flutter-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/Dart-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/Flutter-FAFABD.svg?style=for-the-badge&logo=flutter&logoColor=02569B" />&nbsp
+  <img src="https://img.shields.io/badge/Dart-#9BD547.svg?style=for-the-badge&logo=dart&logoColor=0175C2" />&nbsp
 </div>
 
 <br>
