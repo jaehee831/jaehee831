@@ -9,19 +9,19 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/TensorFlow-FFFDE7.svg?style=for-the-badge&logo=TensorFlow&logoColor=ff6f00" />&nbsp
   <img src="https://img.shields.io/badge/Pytorch-BBB6B5.svg?style=for-the-badge&logo=PyTorch&logoColor=EE4C2C" />&nbsp
-  <img src="https://img.shields.io/badge/R-3670A0.svg?style=for-the-badge&logo=R&logoColor=276DC3" />&nbsp
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C-3670A0.svg?style=for-the-badge&logo=Ct&logoColor=A8B9CC" />&nbsp
-  <img src="https://img.shields.io/badge/C++-3670A0.svg?style=for-the-badge&logo=C++t&logoColor=00599C" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-FFFDE7.svg?style=for-the-badge&logo=pandas&logoColor=150458" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-FFFDE7.svg?style=for-the-badge&logo=numpy&logoColor=013243" />&nbsp  
+  <img src="https://img.shields.io/badge/C-C5FAFF.svg?style=for-the-badge&logo=c&logoColor=A8B9CC" />&nbsp
+  <img src="https://img.shields.io/badge/C++-C5FAFF.svg?style=for-the-badge&logo=cplusplus&logoColor=00599C" />&nbsp
+  <img src="https://img.shields.io/badge/pandas-EBC67E.svg?style=for-the-badge&logo=pandas&logoColor=150458" />&nbsp
+  <img src="https://img.shields.io/badge/numpy-FFF9ED.svg?style=for-the-badge&logo=numpy&logoColor=013243" />&nbsp  
 </div>
 
 <br>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/R-CAFAFF.svg?style=for-the-badge&logo=r&logoColor=276DC3" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
 </div>
@@ -30,7 +30,7 @@
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Docker-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/Docker-F7DF1E.svg?style=for-the-badge&logo=dockert&logoColor=#2496ED" />&nbsp
   <img src="https://img.shields.io/badge/FastAPI-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
 </div>
 
