@@ -5,14 +5,14 @@
 
 <!--내용 부분-->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaehee831&show_icons=true&theme=radical" alt="jaehee831's GitHub stats" style="height: 200px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaehee831&layout=compact" alt="Top Langs" style="height: 200px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jaehee831&show_icons=true&theme=radical" alt="jaehee831's GitHub stats" style="height: 200px; margin-right: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaehee831&layout=compact" alt="Top Langs" style="height: 200px; margin-left: 10px;"/>
 </div>
 
 <br>
 
 <h2 align="center">📫 Contact 📫</h2>
-<br>
+
 <div align="center">
   <a href="https://jaehee831.notion.site/Hi-I-m-Jaehee-7869403b0bca403aabcfd7ae5e4cc1c3?pvs=4" target="_blank">
     <img src="https://img.shields.io/badge/CV-66DEB1?style=for-the-badge&logo=Notion&logoColor=000000" />&nbsp
