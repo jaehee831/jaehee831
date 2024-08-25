@@ -18,6 +18,8 @@
   <img src="https://img.shields.io/badge/Numpy-FFF9ED.svg?style=for-the-badge&logo=numpy&logoColor=013243" />&nbsp  
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://img.shields.io/badge/R-F8F799.svg?style=for-the-badge&logo=r&logoColor=276DC3" />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
@@ -25,9 +27,9 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/R-F8F799.svg?style=for-the-badge&logo=r&logoColor=276DC3" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/opengl-FFFFFF.svg?style=for-the-badge&logo=opengl&logoColor=5586A4" />&nbsp
+  <img src="https://img.shields.io/badge/mysql-E34F26.svg?style=for-the-badge&logo=mysql&logoColor=4479A1" />&nbsp
+  <img src="https://img.shields.io/badge/nodedotjs-1572B6.svg?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />&nbsp
 </div>
 
 <br>
@@ -36,6 +38,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Docker-EF3F56.svg?style=for-the-badge&logo=docker&logoColor=2496ED" />&nbsp
   <img src="https://img.shields.io/badge/FastAPI-696969.svg?style=for-the-badge&logo=fastapi&logoColor=009688" />&nbsp
+  <img src="https://img.shields.io/badge/kotlin-10B981.svg?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />&nbsp
 </div>
 
 <div align="center">
