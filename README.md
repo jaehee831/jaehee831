@@ -69,7 +69,7 @@
     <img src="https://img.shields.io/badge/CV-66DEB1?style=for-the-badge&logo=Notion&logoColor=000000" />&nbsp
   </a>
   
-  <a href="https://drive.google.com/file/d/1A5DMTfzE3znvwmdV_favFcr8hgeMRlAO/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1aGuJ8Uhueg3m6CbpxAIQxokeGufiMj3q/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-80B5E3?style=for-the-badge&logo=latex&logoColor=008080" />&nbsp
   </a>
   
