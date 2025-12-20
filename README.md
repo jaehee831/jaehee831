@@ -65,11 +65,11 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://jaehee831.notion.site/Hi-I-m-Jaehee-7869403b0bca403aabcfd7ae5e4cc1c3?pvs=4" target="_blank">
+  <a href="https://jaehee831.github.io" target="_blank">
     <img src="https://img.shields.io/badge/CV-66DEB1?style=for-the-badge&logo=Notion&logoColor=000000" />&nbsp
   </a>
   
-  <a href="https://drive.google.com/file/d/1aGuJ8Uhueg3m6CbpxAIQxokeGufiMj3q/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1BxZmSZL8pln1wPUvNrMrUV5HD1CR5M1u/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Resume-80B5E3?style=for-the-badge&logo=latex&logoColor=008080" />&nbsp
   </a>
   
