@@ -70,11 +70,11 @@
   </a>
   
   <a href="https://drive.google.com/file/d/1BxZmSZL8pln1wPUvNrMrUV5HD1CR5M1u/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/CV-80B5E3?style=for-the-badge&logo=latex&logoColor=008080" />&nbsp
+    <img src="https://img.shields.io/badge/CV-FFF59D?style=for-the-badge&logo=latex&logoColor=008080" />&nbsp
   </a>
   
   <a href="https://jaehee831.tistory.com" target="_blank">
-  <img src="https://img.shields.io/badge/Blog-FCBFBD?style=for-the-badge&logo=tistory&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Blog-FF5A00?style=for-the-badge&logo=tistory&logoColor=white" />
   </a>
   <a href="https://scholar.google.com/citations?user=tYeb1w8AAAAJ&hl=ko" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
