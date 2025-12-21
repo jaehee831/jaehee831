@@ -66,7 +66,7 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://jaehee831.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Homepage-66DEB1?style=for-the-badge&logo=Notion&logoColor=000000" />&nbsp
+    <img src="https://img.shields.io/badge/Homepage-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   </a>
   
   <a href="https://drive.google.com/file/d/1BxZmSZL8pln1wPUvNrMrUV5HD1CR5M1u/view?usp=drive_link" target="_blank">
@@ -74,9 +74,9 @@
   </a>
   
   <a href="https://jaehee831.tistory.com" target="_blank">
-  <img src="https://img.shields.io/badge/Blog-FCBFBD?style=for-the-badge&logo=tistory&logoColor=000000" alt="GitHub Tech Blog"/>
+  <img src="https://img.shields.io/badge/Blog-FCBFBD?style=for-the-badge&logo=tistory&logoColor=000000" />
   </a>
-  <a href="https://www.instagram.com/jae_pee831/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-B2FCE4?style=for-the-badge&logo=Instagram&logoColor=E4405F" alt="Instagram"/>
+  <a href="https://scholar.google.com/citations?user=tYeb1w8AAAAJ&hl=ko" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
   </a>
 </div>
