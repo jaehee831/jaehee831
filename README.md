@@ -66,15 +66,15 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://jaehee831.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/CV-66DEB1?style=for-the-badge&logo=Notion&logoColor=000000" />&nbsp
+    <img src="https://img.shields.io/badge/Homepage-66DEB1?style=for-the-badge&logo=Notion&logoColor=000000" />&nbsp
   </a>
   
   <a href="https://drive.google.com/file/d/1BxZmSZL8pln1wPUvNrMrUV5HD1CR5M1u/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-80B5E3?style=for-the-badge&logo=latex&logoColor=008080" />&nbsp
+    <img src="https://img.shields.io/badge/CV-80B5E3?style=for-the-badge&logo=latex&logoColor=008080" />&nbsp
   </a>
   
   <a href="https://jaehee831.tistory.com" target="_blank">
-  <img src="https://img.shields.io/badge/Tech Blog-FCBFBD?style=for-the-badge&logo=tistory&logoColor=000000" alt="GitHub Tech Blog"/>
+  <img src="https://img.shields.io/badge/Blog-FCBFBD?style=for-the-badge&logo=tistory&logoColor=000000" alt="GitHub Tech Blog"/>
   </a>
   <a href="https://www.instagram.com/jae_pee831/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-B2FCE4?style=for-the-badge&logo=Instagram&logoColor=E4405F" alt="Instagram"/>
