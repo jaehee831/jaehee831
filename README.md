@@ -69,7 +69,7 @@
     <img src="https://img.shields.io/badge/Homepage-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   </a>
   
-  <a href="https://drive.google.com/file/d/1BxZmSZL8pln1wPUvNrMrUV5HD1CR5M1u/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/1wmuKRDLhEGkURDSyJmk_5VCC5U8u2aTc/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/CV-FFF59D?style=for-the-badge&logo=latex&logoColor=008080" />&nbsp
   </a>
   
